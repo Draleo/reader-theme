@@ -1,0 +1,8 @@
+/* Set a wallpaper for the about:newtab and the about:home
+page*/ @-moz-document url("about:newtab"), url("about:home") { /*for the  new tab page*/#
+ newtab-scrollbox { background:
+ url("file///C:\Users\Sri1122\Downloads\epic-desktop-wallpaper-14.jpg.") no-repeat !important ; background-size:
+  100% !important; } /*for the homepage*/ body { background:
+  url("file:///c:///Background.jng") no-repeat !important ; background-size:
+   100% !important; } #launcher { background-color: rgba(0,0,0,0.8)
+   !important; } }
